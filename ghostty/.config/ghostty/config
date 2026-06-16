@@ -49,7 +49,7 @@
 # resize-overlay-duration = 4s 200ms
 
 font-family = "Menlo"
-theme = "Kanagawa Dragon"
+theme = "black metal"
 background-opacity =0.85
 background-blur = true
 font-size = 14
